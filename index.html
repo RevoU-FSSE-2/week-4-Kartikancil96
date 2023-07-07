@@ -4,22 +4,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
     <title>About Ara</title>
     <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/feather-icons"></script>
 </head>
 
 
 <body>
-    <nav>
+    <!-- Navbar start -->
+    <nav class="navbar">
+        <a href="#" class="active">Kartikancil </a>
 
+        <div id="navbar-nav">
+            <a href="#">Home</a></li>
+            <a href="#">About</a></li>
+            <a href="#">Contact</a></li>
+        </div>
+
+        <div class="navbar-extra">
+            <a href="javascript:void (0);" class="hamburger-menu" onclick="myFunction()">
+                <i data-feather="menu"></i></a>
+        </div>
     </nav>
-
+    <!-- Navbar end -->
     <header>
         <h1 class="my-greeting">Holaa I'm Ara</h1>
     </header>
 
     <main>
-
+        <img class="my-photo" src="Dokumentasi/fotoprofile.png" alt="Kartika Nurkhaidah">
+        <p>
+            I am a support admin at a private bank in Jakarta. I have nearly 10 years of experience as an admin,
+            and I am currently interested in exploring the world of coding. I intend to transition from being
+            an admin to becoming a software engineer, and life in Jakarta Indonesia.
+        </p>
 
     </main>
 
@@ -27,6 +46,13 @@
         <p class="copyright">Copyright &copy; Juli 2023</p>
     </footer>
 
+    <!-- Feather Icon -->
+    <script>
+        feather.replace()
+    </script>
+
+    <!-- hamburger -->
+    <script src="script.js"></script>
 </body>
 
 </html>
