@@ -9,9 +9,12 @@
 - Auto Deploy Netlifly to GitHub
 - connect custome domain and DNS
 
-## DEPLOYMENT  ⚙️
+## Link Deployment ⚙️
 Deployment status : <br/>
 [![Web Deploy][(https://week-4-kartika.netlify.app/)](https://kartikancil.site/)]
+
+Link custome domain : <br/>
+[!Web Custom Domain][(https://www.kartikancil.site/)]
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/isPhTOcA)
 
