@@ -20,8 +20,6 @@ Link custome domain : <br/>
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
-
 ### Git Clone link assignment
 
 <img width="480" alt="gitclone_linktugas" src="https://github.com/RevoU-FSSE-2/week-4-Kartikancil96/assets/86463722/37843567-f1f1-4ffd-9788-e9e48a072af4">
@@ -39,8 +37,8 @@ Link custome domain : <br/>
 <img width="480" alt="gitmerge" src="https://github.com/RevoU-FSSE-2/week-4-Kartikancil96/assets/86463722/da8a32b3-a213-46c4-bb07-6b509d2bced3">
 
 ### Deploy
-Buat Akun Netlifly atau sigup dengan akun GitHub
-Jisa sudah bisa langsung membuat link deployment dengan memilih repository dan brach yang akan di connect
+Buat Akun Netlifly atau signup dengan akun GitHub
+Jika sudah bisa langsung membuat link deployment dengan memilih repository dan brach yang akan di connect
 Nama Link Deploy juga dapat dirubah sesuai kebutuhan
 
 <img width="480" alt="pilihdeploydarigithub" src="https://github.com/RevoU-FSSE-2/week-4-Kartikancil96/assets/86463722/774c1ad6-5df6-4494-830c-66a9adcf91db">
@@ -49,12 +47,12 @@ Nama Link Deploy juga dapat dirubah sesuai kebutuhan
 
 <img width="960" alt="editlinkdeploy" src="https://github.com/RevoU-FSSE-2/week-4-Kartikancil96/assets/86463722/987c0f95-28c7-4bb3-8a33-4b7931e1ef1c">
 
-Agar Netlifly dengan repositorinya selalu auto update pastikan setiap peribahan selalu menggunakan terminal boleh terminal bawaan ataupun terminal Git
+Agar Netlifly dengan repositorinya selalu auto update pastikan setiap perubahan selalu menggunakan terminal, boleh terminal bawaan ataupun terminal Git
 
 ### Connect custom Domain
 
 Buat dan cek nama domain apakah masih tersedia ?
-Jika sudah bisa langsung dipilih sesuai kebutuhan dan lakukan pembayaran
+Jika sudah, bisa langsung dipilih sesuai kebutuhan dan lakukan pembayaran
 
 <img width="480" alt="namadomaintersedia" src="https://github.com/RevoU-FSSE-2/week-4-Kartikancil96/assets/86463722/db740f82-eed0-49f3-bf74-ee80451e5e8e">
 
@@ -74,7 +72,7 @@ Setelah selesai bisa membuat akun Cloudflare untuk dapat kita setting server DNS
 
 Hal ini membutuhkan waktu untuk dapat aktif jadi boleh sambil ngerjain yang lain dulu , biasanya paling lama 24 jam
 
-kalau sudah seeting antara cloudflare ke niagahoster dan juga  netifly untuk setting domain yang telah dibuat
+kalau sudah seTting antara cloudflare ke niagahoster dan juga  netifly untuk setting domain yang telah dibuat
 
 <img width="480" alt="NAMESERVERNIAGAHOSTER" src="https://github.com/RevoU-FSSE-2/week-4-Kartikancil96/assets/86463722/502a96bb-e732-47a3-94e3-5b5bdeb4b063">
 
