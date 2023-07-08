@@ -39,6 +39,56 @@
             and I am currently interested in exploring the world of coding. I intend to transition from being
             an admin to becoming a software engineer, and life in Jakarta Indonesia.
         </p>
+        <section id="form-section">
+            <h2>Ada Pertanyan Lebih Lanjut?</h2>
+            <form action="#">
+                <fieldset>
+                    <legend>Data diri:</legend>
+                    <div>
+                        <label for="fullName">Nama Lengkap:</label>
+                        <input id="fullName" type="text" required />
+                    </div>
+                    <div>
+                        <label for="Tanggal"> Tanggal</label>
+                        <input type="date" id="tanggal" name="Tanggal" required>
+                    </div>
+                    <div>
+                        <label for="email">E-mail:</label>
+                        <input id="email" type="email" required />
+                    </div>
+
+                    <div>
+                        <p>Bersedia berlanggan pemberitahuan situs ini?</p>
+                        <input type="radio" id="yes" name="isBerlangganan" value="Female" />
+                        <label for="yes">Yes</label>
+                        <input type="radio" id="no" name="isBerlangganan" value="Male" />
+                        <label for="no">No</label>
+                    </div>
+                </fieldset>
+                <fieldset>
+                    <legend>Informasi lebih lanjut:</legend>
+                    <div>
+                        <p>Project yang Dapat Dikerjakan</p>
+                        <input id="desainer" type="checkbox" name="Activity" value="desainer" />
+                        <label for="desainer">Desainer</label>
+                        <input id="menjahit" type="checkbox" name="Activity" value="menjahit" />
+                        <label for="menjahit">Menjahit</label>
+                        <input id="admin" type="checkbox" name="Activity" value="Virtual Assistant" />
+                        <label for="admin">Virtual Assistant</label>
+                    </div>
+                    <div>
+                        <p>Butuh Konsultasi ? </p>
+                        <textarea rows="4"></textarea>
+                    </div>
+                    <div>
+                        <p>Unggah Brief disini!:</p>
+                        <input type="file" id="photo" name="Brief" required
+                            accept="image/png, image/jpeg, image/jpg, image/tiff" />
+                    </div>
+                </fieldset>
+                <button type="submit">Submit</button>
+            </form>
+        </section>
 
     </main>
 

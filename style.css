@@ -50,7 +50,7 @@ nav>div .navbar-nav {
 
 header>h1 {
     display: flex;
-    align-content: center;
+    text-align: center;
     margin-top: 4rem;
     margin-bottom: 1rem;
     padding: 1rem;
@@ -68,7 +68,53 @@ main>p {
     margin-top: 2rem;
     margin-left: 2rem;
     margin-right: 2rem;
+    margin-bottom: 2rem;
+    padding: 1.4rem;
     align-content: center;
+}
+
+fieldset {
+    margin: 18px 18px;
+    border-radius: 6px;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 4px 4px;
+    margin: 8px 0;
+    display: block;
+}
+
+#form-section {
+    background-color: #80dfdf;
+    color: white;
+    padding: 1.4rem 7% margin-top: 16px;
+}
+
+#form-section form {
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid white;
+}
+
+#form-section h2 {
+    text-align: center;
+}
+
+button[type="submit"] {
+    color: white;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 4px;
+    width: 100%;
+    padding: 8px 16px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
 }
 
 footer {
